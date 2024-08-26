@@ -101,7 +101,7 @@ https://api.voicecover.ai/v1
 
 #### Output Specifications
 - **Translated Video:** MP4 format with synchronized audio and lip movements
-- **Supported Languages:** 30 languages including Arabic, Mandarin, Japanese, Hindi, Spanish, and French
+- **Supported Languages:** 14 languages including Arabic, Mandarin, Japanese, Hindi, Spanish, and French
 
 #### Performance Metrics
 - **Translation Accuracy:** 95% (based on internal benchmarks)
